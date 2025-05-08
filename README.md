@@ -56,7 +56,7 @@ The PulseGym database consists of 10 tables with the following relationships:
    - Download the project files, including SQL scripts and the LaTeX ER diagram code.
    - Alternatively, clone the repository (if hosted):  
      ```bash
-     git clone <repository-url>
+     git clone <https://github.com/Govindds1/Pulsify.git>
      ```
 
 2. **Set Up MySQL Database**
